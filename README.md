@@ -1,1 +1,1 @@
-Simple React Projects for practicing Hands-on react
+Simple React Projects for Hands-on React
