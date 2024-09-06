@@ -45,7 +45,7 @@ export default function TestimonialsApp() {
         ? null
         : items.map((items) => {
             return <div className="card card-primary mb-2">item</div>;
-          })} */}
+          })} //this items.map is causing problems */}
     </div>
   );
 }
